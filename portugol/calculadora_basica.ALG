@@ -1,22 +1,22 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 22/02/2025
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    x,y,resultado : inteiro
    operacao : caractere
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   escreval("informe o número 1:")
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
+   escreval("informe o nÃºmero 1:")
    leia(x)
-   escreval("informe o número 2:")
+   escreval("informe o nÃºmero 2:")
    leia(y)
 
-   escreval("Informe a operação: (+, -, *, /)")
+   escreval("Informe a operaÃ§Ã£o: (+, -, *, /)")
    leia(operacao)
 
    se operacao = "+" entao
