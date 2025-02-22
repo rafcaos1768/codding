@@ -1,0 +1,20 @@
+
+
+print ("incio do programa")
+
+print("digite a 1ª nota")
+idade1=float(input())
+print("digite a 2ª nota")
+idade2=float(input())
+
+media=(idade2+idade1)/2
+
+print(media)
+
+
+
+
+
+
+
+print ("fim do programa")
