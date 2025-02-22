@@ -1,0 +1,9 @@
+#nao colocar espaco antes da funcao
+
+print("Início do programa")
+
+
+idade = int(input()) #input vai sempre retornar a um tipo string, portanto é necessário converter para int 
+print("Ano de nascimento:", 2024 - idade)
+    
+print("Fim do programa")
